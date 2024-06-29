@@ -1,0 +1,46 @@
+Promedio gasto VIP: No hay gastos VIP registrados todavía
+Tabla asistencia:
+  Germany vs Scotland: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Hungary vs Switzerland: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Spain vs Croatia: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Italy vs Albania: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Slovenia vs Denmark: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Serbia vs England: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Poland vs Netherlands: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Austria vs France: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Romania vs Ukraine: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Belgium vs Slovakia: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Turkey vs Georgia: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Portugal vs Czech Republic: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Germany vs Hungary: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Scotland vs Switzerland: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Croatia vs Albania: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Spain vs Italy: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Slovenia vs Serbia: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Denmark vs England: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Poland vs Austria: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Netherlands vs France: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Slovakia vs Ukraine: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Belgium vs Romania: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Georgia vs Czech Republic: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Turkey vs Portugal: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Switzerland vs Germany: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Scotland vs Hungary: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Albania vs Spain: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Croatia vs Italy: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  England vs Slovenia: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Denmark vs Serbia: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Netherlands vs Austria: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  France vs Poland: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Slovakia vs Romania: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Ukraine vs Belgium: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Georgia vs Portugal: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+  Czech Republic vs Turkey: [] asistentes, [] boletos vendidos, 0.00 relacion asistencia/venta
+Partido mayor asistencia: <partidos.partidos object at 0x000001511517EF90>
+Partido mayor boletos vendidos: El partido con mayor cantidad de boletos vendidos fue: Germany vs Scotland en Estadio Rhein Energie con [] boletos vendidos.
+Top 3 productos vendidos:
+  Increible Plástico Teclado: [] unidades
+  Ergonómico Hormigon Bicicleta: [] unidades
+  Genérico Algodón Raton: [] unidades
+Top 3 clientes:
+  No hay clientes todavía: 0 boletos comprados
